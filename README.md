@@ -13,3 +13,8 @@ Example [Analog Clock](analog_clock)
 Example [Digital Clock](digital_clock)
 
 <img src='digital_clock/digital.gif' width='350'>
+
+
+Example [Fibonacci Clock](fibonacci_clock)
+
+<img src='fibonacci_clock/fibonacci_dark.gif' width='350'>
